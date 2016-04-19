@@ -1,5 +1,5 @@
 # yii2-bt-actioncolumn
-Yii2 ActionColumn customized with bootstrap style buttons.
+Yii2 Kartik Grid ActionColumn customized with bootstrap style buttons.
 
 [![Latest Stable Version](https://poser.pugx.org/almirb/yii2-bt-actioncolumn/v/stable)](https://packagist.org/packages/almirb/yii2-bt-actioncolumn)
 [![License](https://poser.pugx.org/almirb/yii2-bt-actioncolumn/license)](https://packagist.org/packages/almirb/yii2-bt-actioncolumn)
