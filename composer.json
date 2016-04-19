@@ -1,0 +1,28 @@
+{
+  "name": "almirb/yii2-bt-actioncolumn",
+  "description": "Yii2 ActionColumn customized with bootstrap styled buttons.",
+  "license": "BSD-3-Clause",
+  "type": "yii2-extension",
+  "authors": [
+    {
+      "name": "Germano Ricardi",
+      "email": "germanoricardi7@gmail.com"
+    },
+    {
+      "name": "Almir Bolduan",
+      "email": "almir.bsi@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "yiisoft/yii2": "*",
+    "kartik-v/yii2-grid": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "almirb\\btactioncolumn\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
